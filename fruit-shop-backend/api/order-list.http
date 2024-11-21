@@ -1,0 +1,3 @@
+GET http://localhost:2000/api/orders
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwiaWF0IjoxNzI5ODUwNjk5LCJleHAiOjE3Mjk4NTQyOTl9.fbUGqPfxB_ZuYF1TorVpZaRVyYn1Vk-WDUFR2tTQDj8
